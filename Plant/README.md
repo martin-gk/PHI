@@ -14,7 +14,8 @@ After you have your account registered you need to connect the Arduino MKR WIFI 
 ![assembly](/img/assembly.png)[^1]
 [^1]: Image taken from https://opla.arduino.cc/opla/module/carrier/lesson/discovering-the-mkr-iot-carrier
 <br>
-Please visit the [oplá kit website](https://opla.arduino.cc/opla/module/carrier/lesson/discovering-the-mkr-iot-carrier) for an in depth tutorial.
+
+Please visit the [oplà kit website](https://opla.arduino.cc/opla/module/carrier/lesson/discovering-the-mkr-iot-carrier) for an in depth tutorial.
 
 ## Connecting to your computer
 
