@@ -24,11 +24,12 @@ I myself am very fascinated by cyborgs and in awe of the technological possibili
 
 ## Structure
 
-The project is structured in three parts
+The project is structured in four parts
 
 - Plant
 - Human
 - Cloud
+- Diary
 
 Plant contains all the documentation for the hardware required to connect the houseplant to the IOT
 <br>
@@ -37,3 +38,6 @@ Human contains all the documentation for the wearable device
 <br>
 <br>
 Cloud contains all the documentation for the cloud software to connect humans and plants
+<br>
+<br>
+Diary contains a loosely structured readme with my findings and issues as I dive deeper into the project. If the format is unacceptable for the project submission it will be deleted prior to submission.
