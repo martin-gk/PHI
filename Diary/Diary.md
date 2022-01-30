@@ -10,5 +10,24 @@
 
   - "expensive" solution and complete overkill: [Haptic Motor Controller](https://www.adafruit.com/product/2305)
   - better solution [transistors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/transistors)
+  - best solution have a board that comes with a vibrating motor
 
 - There is plug-and-play and there is firmware updates. Wasted 3 hours and 2% hairs on a 10 min [fix](https://www.arduino.cc/en/Tutorial/WiFiNINA-FirmwareUpdater)
+
+- Kids these day don't know how great they have it with autocomplete
+
+- Compile error because your code is good but an imported library is not good is awful
+
+- Sometimes you have to break your board in order to find out that what you have been looking for does not exist
+
+- Compiling seconds are like hours in real time
+
+- There is nothing like the helplessness of being unable to connect to your board
+
+- shortcuts in your device communicator can ruin your life
+
+- I hope its a shortcut
+
+- Patience is a virtue you learn while waiting on your parts from china
+
+- Comfort is not as important if you are afraid to loose your arm

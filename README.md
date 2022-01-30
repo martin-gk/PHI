@@ -1,10 +1,10 @@
-# HPI - Human Plant Interface
+# PHI - Plant Human Interface
 
 Project for my bachelor thesis at FH JOANNEUM - Mobile Software Development
 
 ## Introduction
 
-The Human Plant Interface project aims to bring the user closer to his houseplants. With the help of low entry hardware components like Arduino and the IOT, I plan to enhance myself to be able to feel when my houseplants needs to be watered.
+The Plant Human Interface project aims to bring the user closer to his houseplants. With the help of low entry hardware components like Arduino and the IOT, I plan to enhance myself to be able to feel when my houseplants needs to be watered.
 
 ## Motivation
 
@@ -24,20 +24,20 @@ I myself am very fascinated by cyborgs and in awe of the technological possibili
 
 ## Structure
 
-The project is structured in four parts
+The project is structured in five parts
 
 - Plant
+  - documentation for the microcontroller and sensors reading the plants vitals
+  - how to assemble everything and the code needed to read the sensor values.
 - Human
+  - documentation on the hardware for the wearable
+  - the code necessary to write data onto the e-paper display
+  - the code necessary to use the vibrating motor
 - Cloud
-- Diary
-
-Plant contains all the documentation for the hardware required to connect the houseplant to the IOT
-<br>
-<br>
-Human contains all the documentation for the wearable device
-<br>
-<br>
-Cloud contains all the documentation for the cloud software to connect humans and plants
-<br>
-<br>
-Diary contains a loosely structured readme with my findings and issues as I dive deeper into the project. If the format is unacceptable for the project submission it will be deleted prior to submission.
+  - documentation on how to connect the devices to the IoT cloud
+  - exemplary code on the auto generated sketches by the arduino IoT cloud
+- Power
+  - Information on different power sources as well as safety information
+  - Recommendation on using a power bank
+- Case
+  - files for 3d printing a case
